@@ -2,10 +2,11 @@
 
 ## Project Description ##
 
-O Tema Centurio é um Template WordPress desenvolvido pelo programador Tiago Sousa sobre a engrenagem do [Framework Odin] (http://wpod.in/)
+O Tema Centurio é um Template WordPress desenvolvido pelo programador Tiago Sousa sobre a engrenagem do [Framework Odin](http://wpod.in/)
+
 ## Installation ##
 
-Basta ter em seu blog o WordPres instalado e ir em Adiocionar Novo Tema e subir o arquivo.
+Basta ter em seu blog o WordPres instalado e ir em "Adicionar Novo" Tema e subir o arquivo.
 
 * [Bootstrap](http://getbootstrap.com/)
 * [Bootstrap Sass](https://github.com/twbs/bootstrap-sass)
